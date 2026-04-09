@@ -1,0 +1,7 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,detail-of-lanzon,0.5000000000000001,0.49999999999999867,1,,Where is the Lanzon Stela?,In the main gallery under the temple at Chavin de Huantar.,,,,,,,,
+2,lanzon,0.5506408801611723,0.5222939986355172,0.8999999999999999,,What is it shaped like?,A plough.,,,,,,,,
+3,detail-of-lanzon,0.4316087885291736,0.5106376748744305,2.25,,Who is the main figure on the Lanzon?,The staff god,,,,,,,,
+4,detail-of-lanzon,0.7313547066964214,0.3397947378456628,3.375,,Why are there snakes?,In Chavin art there were a lot of snakes used to represent the hair of  staff god deity. The features of many apex predators from the Amazon rainforest were used to represent Chavin deities to represent their power.,,,,,,,,
+5,detail-of-lanzon,0.5092985113473046,0.3563681212779028,3.375,,Why are the eyes looking up?,clever answer from research,,,,,,,,
