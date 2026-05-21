@@ -5,13 +5,13 @@
 title: "Chimu Goddess Whistling Jar"
 description: "Close looking at a ritual vessel from the Chimu empire on the ancient Peruvian coast."
 url: "https://angelinarivoli.github.io"
-baseurl: "/lanzon_stella_tour_guide"
+baseurl: "/chimu_moon_goddess_vessel"
 author: "Angelina, Tina, Ava, Magali, Julie"
 email: "angelinarivoli@ucsb.edu"
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
 logo: ""
 telar_language: en
-collection_mode: false
+collection_mode: true
 
 # Story Interface Settings
 story_interface:
