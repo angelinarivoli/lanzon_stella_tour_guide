@@ -1,0 +1,6 @@
+---
+title: "Learn more"
+---
+
+  Studies of Chimu ceramic production suggest that this vessel was created using both molding and modeling techniques. According to Valentine Wilders, scan analysis of Chimu stirrup-spout bottles, Chimu artisans frequently molded separate vessel components before assembling them together by hand. The chambers of the special repair, highly symmetrical, support the possibility that moles were used to produce standardized forms, efficiently. In contrast, the syrups about connection and sculpture are likely to have required additional hand-building, joining, and surface refinement.
+  Scholars have found that models allowed Chimú workshops to reproduce ceramic forms quickly and consistently, contributing to large-scale production systems, within the Chimú Empire. However, the process still required skilled labor to attach sections, smooth seams, and complete decorative details. The vessel's black surface was likely achieved through reduction, firing, and a process that restricted oxygen during firing, and produced the dark finish characteristic of Chimú blackware ceramics. Together, these techniques demonstrate the technical sophistication of Chimú, ceramic production, and the balance between standardization and craftsmanship.
